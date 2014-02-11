@@ -26,6 +26,7 @@ Uses 'Java-Server' to test multiplayer functionality.
 Major updates 
  * Switch to OpenGL for graphics  
  * Implement two joysticks to control movement and shooting
+ * Deploy server to a platform
  * More enemies
  * Powerups
  
