@@ -9,4 +9,4 @@ Uses 'Java-Server' to test multiplayer functionality.
 
 * Using Eclipse
   * Import 'Aerolite' into Eclipse. 'Run' project.
-* To use multiplayer functionality, run 'Java-Server', then run 'Aerolite' on two or more Android devices.
+* To use multiplayer functionality, run 'Java-Server', then run 'Aerolite' on two or more Android devices running Android 2.3 or higher.
