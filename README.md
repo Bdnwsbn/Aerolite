@@ -11,7 +11,7 @@ Uses 'Java-Server' to test multiplayer functionality.
   * Import 'Aerolite' into Eclipse. 'Run' project.
 * To use multiplayer functionality, run 'Java-Server', then run 'Aerolite' on two or more Android devices running Android 2.3 or higher. 
 * **IMPORTANT** - To test the multiplayer, you must change line 91 in GameScreen.java to your IP address. To find your IP address on Mac (my development machine of choice) open Terminal -> type 'ifconfig' -> Find the 'inet' address in the 'en1:' block. Or your 'BROADCAST' 'inet' address. Replace the IP in line 91 with your IP and it should work. 
- * This will be changed to dynamically find your IP address in the future.
+ * This will be changed to dynamically find the correct IP address in the future.
 
 
 ## Implemented
